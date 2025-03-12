@@ -1,0 +1,39 @@
+# Gradle
+.gradle/
+build/
+*/build/
+!gradle-wrapper.jar
+
+# Local configuration
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries/
+/.idea/caches/
+/.idea/modules.xml
+/.idea/.name
+.DS_Store
+
+# Log files
+*.log
+
+# Android Studio
+captures/
+.externalNativeBuild/
+.cxx/
+*.iml
+
+# Keystore files (security reasons)
+*.keystore
+*.jks
+
+# Kotlin specific
+*.kotlin_metadata
+
+# JetBrains
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+
+#
